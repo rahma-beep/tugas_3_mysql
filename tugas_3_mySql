@@ -1,0 +1,7 @@
+1. xampp adalah singkatan dari X(Empat Sistem Operasi Apapun), Apache, MySQL, PHP, dan Perl
+2. cara membuka xampp adalah dengan mengklik tombol start pada laptop/komputer,
+   lalu klik aplikasi xampp control panel pada program menu.
+3. dengan mengklik tombol start untuk mengaktifkan mySql pada xampp control panel
+4. dengan mengetik localhost pada tab browser, kemudian setelah terbuka halaman dashboard xampp
+   klik menu phpMyAdmin yang ada di ujung kanan atas pada menu navigasi.
+5. dengan mengetik perintah c:\xampp\mysql\bin\mysql -u root pada command prompt.
